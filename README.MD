@@ -15,7 +15,8 @@ Coin.getBtc(data=>{
 })
 ```
 
-Method yang disediakan:
+Method yang disediakan:  
+
 | Method                     | Get Price         |
 | ---------------------------|-------------------|
 | Coin.getBtc(callback)      | Bitcoin           |
