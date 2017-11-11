@@ -17,7 +17,7 @@ Coin.getBtc(data=>{
 
 Method yang disediakan:
 | Method                     | Get Price         |
-| -------------------------- |:-----------------:|
+| ---------------------------|-------------------|
 | Coin.getBtc(callback)      | Bitcoin           |
 | Coin.getBch(callback)      | Bitcoin Cash      |
 | Coin.getEth(callback)      | Etherium          |
